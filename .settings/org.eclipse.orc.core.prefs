@@ -1,0 +1,16 @@
+
+orc.db.username = topicer
+
+orc.db.password = topicer@2015
+
+orc.db.conn.url = jdbc:mysql://192.168.1.76:3306/topicercom.inveno.hotodayuseUnicode=true&characterEncoding=utf-8
+
+orc.package.name = src
+
+orc.source.folder = 
+
+#orc.ds.exclude.tables = 
+
+#orc.ds.exclude.columns = 
+
+?orc.model.template.folder = ?
